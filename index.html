@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Maeva Cinquin | Maquilleuse professionnelle | Make Up Artist Freelance </title>
+    <!--resumer description de la page pour moteur de recherche-->
+    <meta name="description" content="maquilleuse professionelle">
+    <link rel="icon" href="images/fav_makeup.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+    <nav id="navigationBar">
+        <ul>
+            <!--logo-->
+            <li class="menu"><a href="#Accueil" class="logo"><img src="images/logo.png" alt="logo"></a></li>
+                <li class="menu" id="menu_1"><a href="#Quisuisje">Qui suis-je ?</a></li>
+                <li class="menu" id="menu_2"><a href="#Competences">Mes compétences</a></li>
+                <!-- Lien vers le galerie -->
+                <li class="menu"><a href="http://makeup-artist-dream.kabook.fr/galeries/" target="_blank">Galerie</a></li>
+                <!-- Lien vers le book -->
+                <li class="menu"> <a href="">Book</a></li>
+                <li class="menu"><a href="#Contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<!-- images fond background + images texte -->
+<div id="Accueil">
+    <img src="images/Fond_accueil_et_titre.png" alt="Accueil Maeva Cinquin">
+</div>
+<h2 id="section1">
+    <!-- images fond make up -->
+    <img src="images/Logo_MakeupArtist.png" id="Quisuisje">
+    <!-- description qui suis je ?-->
+    <div >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolorem expedita facilis, iste laudantium maiores modi perferendis quod quos
+        reprehenderit, sit tempore veritatis voluptatem? Architecto ducimus ipsum quam quisquam voluptas.
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aspernatur consectetur consequatur delectus distinctio dolor earum exercitationem,
+        inventore ipsum iure magni modi nisi porro quasi quia quos sequi tempore voluptatum!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consequuntur debitis deserunt, eaque
+        officia quasi tempora vitae. Adipisci, aliquid aut cupiditate debitis eius eum, exercitationem ipsum laborum
+        officiis quibusdam saepe.</p>
+        <p>Accusamus ad alias architecto aut dicta eaque esse excepturi id modi nemo obcaecati, qui tempore totam.
+        Accusantium, corporis cupiditate ducimus eveniet facere laboriosam magni nihil perferendis placeat porro
+        repellat sapiente.</p>
+    </div>
+</h2>
+<!-- images fond section 2 -->
+<div id="section2"><img src="images/Fond_Mae.png"></div>
+<h2 id="section3">
+    <div id="Competences">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolorem expedita facilis, iste laudantium maiores modi perferendis quod quos
+        reprehenderit, sit tempore veritatis voluptatem? Architecto ducimus ipsum quam quisquam voluptas.
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aspernatur consectetur consequatur delectus distinctio dolor earum exercitationem,
+            inventore ipsum iure magni modi nisi porro quasi quia quos sequi tempore voluptatum!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores consequuntur debitis deserunt, eaque
+            officia quasi tempora vitae. Adipisci, aliquid aut cupiditate debitis eius eum, exercitationem ipsum laborum
+            officiis quibusdam saepe.</p>
+        <p>Accusamus ad alias architecto aut dicta eaque esse excepturi id modi nemo obcaecati, qui tempore totam.
+            Accusantium, corporis cupiditate ducimus eveniet facere laboriosam magni nihil perferendis placeat porro
+            repellat sapiente.</p></div>
+</h2>
+<footer>
+    <ul id="#contact">
+        <div class="popup" onclick="myFunction()">
+            <span class="popuptext" id="myPopup">
+                <br>Pour me contacter :
+                <br>
+                <br><a href="mailto: maevacinquin1@gmail.com">maevacinquin1@gmail.com</a>
+                <br>
+                <br>06 16 62 51 37
+                <br>
+                <br>1250 chemin de la renouillère, 74140 Sciez
+                <br>
+                <br><a href="https://www.instagram.com/makeup.artist.dream" target="_blank">instagram.com/makeup.artist.dream</a></span>
+        <li><a><img src="images/fav_mail.png" alt="mail"></a></li>
+        <li><a><img src="images/fav_smartphone.png" alt="telephone"></a></li>
+        <li><a><img src="images/fav_map.png" alt="map"></a></li>
+        <li><a><img src="images/fav_insta.png" alt="instagram"></a></li>
+        </div>
+    </ul>
+    <h2 id="section4">
+        <hr>
+        <div>
+            <br>Pour me contacter :
+            <br>
+            <br><a href="mailto: maevacinquin1@gmail.com">maevacinquin1@gmail.com</a>
+            <br>
+            <br>06 16 62 51 37
+            <br>
+            <br>1250 chemin de la renouillère, 74140 Sciez
+            <br>
+            <br><a href="https://www.instagram.com/makeup.artist.dream" target="_blank">instagram.com/makeup.artist.dream</a>
+        </div>
+    </h2>
+</footer>
+<script>
+    // When the user clicks on div, open the popup
+    function myFunction() {
+        var popup = document.getElementById("myPopup");
+        popup.classList.toggle("show");
+    }
+    /* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+    function myFunctionDrop() {
+        document.getElementById("myDropdown").classList.toggle("showDrop");
+    }
+
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(event) {
+        if (!event.target.matches('.btn_menu')) {
+
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('showDrop')) {
+                    openDropdown.classList.remove('showDrop');
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

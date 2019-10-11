@@ -1,0 +1,273 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin:0px;
+    font-family: Droid Sans;
+    font-size: 20px;
+}
+h2 div {
+    font-weight: normal;
+    font-size : 0.75em;
+}
+#navigationBar{
+    width:100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    position: fixed;
+}
+#navigationBar ul{
+    display : inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+}
+#navigationBar ul li a{
+    text-decoration: none;
+    color: white;
+   }
+#navigationBar ul li a:hover{
+    color : grey;
+}
+#Accueil img{
+    max-width: 100%;
+    width: 100vw;
+    margin: auto;
+    padding: auto;
+}
+#section1 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#section1 img {
+    padding: 10%;
+    text-align: center;
+    margin: auto;
+    max-width: 100%;
+}
+#section1 div{
+    padding: 0em 2em 2% 2em;
+    text-align: center;
+}
+#section2 {
+    background-color: #272727;
+}
+#section2 img{
+    width: 100vw;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#section3 {
+    background-color: #272727;
+    margin:0em;
+}
+#section3 div{
+    margin: 0em 3em 0em 3em;
+    padding: 3em 3em 3em 3em;
+    vertical-align: center;
+    text-align: center;
+    color: white;
+}
+#section4{
+    display: none;
+}
+footer {
+    background-color: #272727;
+    padding-bottom: 3em;
+}
+footer ul{
+    max-width: 100%;
+    width: 100%;
+    list-style-type: none;
+    /*margin: 0px;*/
+    /*padding: 0px;*/
+    text-align: center;
+    display : inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+}
+footer  ul li {
+    text-decoration: none;
+    /*padding: 1em 6em 1em 6em;*/
+    /*margin: 0px;*/
+    /*display: inline;*/
+    display: inline-flex;
+    padding: 0% 5%;
+}
+footer ul li a {
+    /*display:inline-block;*/
+}
+
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 100%;
+}
+
+/* popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 50%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 2em;
+    border: solid white;
+    padding: 5em 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    margin: 0px;
+    left : 25%;
+    text-align: center;
+}
+.popup .popuptext a {
+    text-decoration: none;
+    color: white;
+}
+
+/* pour animations de la popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+/*Responsives version tablette - 768 px*/
+@media only screen and (max-width:768px){
+    #navigationBar{
+
+    }
+    #navigationBar ul {
+        padding: 0;
+        margin: 2%;
+    }
+    #navigationBar li {
+        font-size: 0.7em;
+        margin: 0;
+        padding: 0;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-content: flex-start;
+    }
+    #navigationBar li:nth-child(1){
+        display: none;
+
+    }
+    #navigationBar li:nth-child(2){
+        display: none;
+    }
+    #navigationBar li:nth-child(3){
+        display: none;
+    }
+    #navigationBar li:nth-child(4){
+        display: inline-flex;
+    }
+    #navigationBar li:nth-child(5){
+        display: inline-flex;
+    }
+    #navigationBar li:nth-child(6){
+        display: inline-flex;
+    }
+    h2 div {
+        font-size: 0.6em;
+    }
+    .popup .popuptext {
+        display: none;
+    }
+    footer ul{
+        display: none;
+    }
+    #section4{
+        display:block;
+        margin: 0px;
+        padding-top: 1%;
+    }
+    #section4 hr{
+        width: 80%;
+    }
+    #section4 div {
+        text-decoration: none;
+        font-size : 0.6em;
+        text-align: center;
+        color: white;
+    }
+    #section4 div a {
+        text-decoration: none;
+        color: white;
+    }
+}
+/*Responsives version telephone*/
+@media only screen and (max-width:500px){
+    h2 div {
+        font-size: 0.4em;
+    }
+    .popup .popuptext {
+        display: none;
+    }
+    footer ul{
+        display: none;
+    }
+    #section4{
+        display:block;
+        margin: 0px;
+        padding-top: 1%;
+        font-size: 0.6em;
+    }
+    #section4 hr{
+        width: 80%;
+    }
+    #section4 div {
+        text-decoration: none;
+        font-size : 0.6em;
+        text-align: center;
+        color: white;
+    }
+    #section4 div a {
+        text-decoration: none;
+        color: white;
+    }
+    #navigationBar ul {
+        width: 100%;
+        position: relative;
+        display: inline-flex;
+    }
+}
+
+
+/* liste de ce qu'il reste a faire :
+- menu telephone buguer encore
+- flex box footer
+- images 'make up artist' a redimenssionner
+- version 768px
+- version 1024px
+- version 2560px
+- mettre a jour la popup -> version + propre
+- préparer une page pour la galerie
+- préparer une page pour le book
+- voir pour mettre un formulaire
+ */
