@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="Creation page Galerie et navbar">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="Modif page galerie et nom">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,7 @@
       <workItem from="1570705685603" duration="5717000" />
       <workItem from="1570713802970" duration="2892000" />
       <workItem from="1570718932579" duration="12194000" />
-      <workItem from="1570788677467" duration="6373000" />
+      <workItem from="1570788677467" duration="8658000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570795408722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout ''?''">
+      <created>1570801062388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570801062388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creation page Galerie et navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation page Galerie et navbar" />
+    <MESSAGE value="ajout ''?''" />
+    <MESSAGE value="Modif page galerie et nom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif page galerie et nom" />
   </component>
 </project>

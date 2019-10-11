@@ -7,7 +7,7 @@ body{
     font-family: Droid Sans;
     font-size: 20px;
 }
-h2 div {
+h2 p{
     font-weight: normal;
     font-size : 0.75em;
 }
@@ -53,7 +53,7 @@ h2 div {
     margin: auto;
     max-width: 100%;
 }
-#section1 div{
+#section1 p{
     padding: 0 2em 2% 2em;
     text-align: center;
 }
@@ -70,7 +70,7 @@ h2 div {
     background-color: #272727;
     margin:0;
 }
-#section3 div{
+#section3 p{
     margin: 0 3em 0 3em;
     padding: 3em 3em 3em 3em;
     vertical-align: center;
@@ -94,7 +94,6 @@ footer ul{
     display : inline-flex;
     justify-content: space-evenly;
     flex-direction: row;
-    list-style-type: none;
     align-items: center;
 }
 footer  ul li {
