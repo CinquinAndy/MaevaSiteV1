@@ -34,6 +34,7 @@ h2 p{
 #navigationBar ul li a:hover{
     color : grey;
 }
+/*Css index*/
 #Accueil img{
     max-width: 100%;
     width: 100vw;
@@ -88,8 +89,6 @@ footer ul{
     max-width: 100%;
     width: 100%;
     list-style-type: none;
-    /*margin: 0px;*/
-    /*padding: 0px;*/
     text-align: center;
     display : inline-flex;
     justify-content: space-evenly;
@@ -98,14 +97,8 @@ footer ul{
 }
 footer  ul li {
     text-decoration: none;
-    /*padding: 1em 6em 1em 6em;*/
-    /*margin: 0px;*/
-    /*display: inline;*/
     display: inline-flex;
     padding: 0 5%;
-}
-footer ul li a {
-    /*display:inline-block;*/
 }
 
 .popup {
@@ -120,7 +113,6 @@ footer ul li a {
 }
 
 /* popup */
-/*noinspection ALL*/
 .popup .popuptext {
     visibility: hidden;
     width: 50%;
@@ -258,15 +250,11 @@ footer ul li a {
     }
 }
 
+/*galerie*/
+
+
 
 /* liste de ce qu'il reste a faire :
-- menu telephone buguer encore
-- flex box footer
-- images 'make up artist' a redimenssionner
-- version 768px
-- version 1024px
-- version 2560px
-- mettre a jour la popup -> version + propre
 - préparer une page pour la galerie
 - préparer une page pour le book
 - voir pour mettre un formulaire
