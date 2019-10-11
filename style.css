@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 body{
-    padding: 0px;
-    margin:0px;
+    padding: 0;
+    margin:0;
     font-family: Droid Sans;
     font-size: 20px;
 }
@@ -54,7 +54,7 @@ h2 div {
     max-width: 100%;
 }
 #section1 div{
-    padding: 0em 2em 2% 2em;
+    padding: 0 2em 2% 2em;
     text-align: center;
 }
 #section2 {
@@ -68,10 +68,10 @@ h2 div {
 }
 #section3 {
     background-color: #272727;
-    margin:0em;
+    margin:0;
 }
 #section3 div{
-    margin: 0em 3em 0em 3em;
+    margin: 0 3em 0 3em;
     padding: 3em 3em 3em 3em;
     vertical-align: center;
     text-align: center;
@@ -103,7 +103,7 @@ footer  ul li {
     /*margin: 0px;*/
     /*display: inline;*/
     display: inline-flex;
-    padding: 0% 5%;
+    padding: 0 5%;
 }
 footer ul li a {
     /*display:inline-block;*/
@@ -121,6 +121,7 @@ footer ul li a {
 }
 
 /* popup */
+/*noinspection ALL*/
 .popup .popuptext {
     visibility: hidden;
     width: 50%;
@@ -133,7 +134,7 @@ footer ul li a {
     position: absolute;
     z-index: 1;
     bottom: 125%;
-    margin: 0px;
+    margin: 0;
     left : 25%;
     text-align: center;
 }
@@ -204,7 +205,7 @@ footer ul li a {
     }
     #section4{
         display:block;
-        margin: 0px;
+        margin: 0;
         padding-top: 1%;
     }
     #section4 hr{
@@ -234,7 +235,7 @@ footer ul li a {
     }
     #section4{
         display:block;
-        margin: 0px;
+        margin: 0;
         padding-top: 1%;
         font-size: 0.6em;
     }
