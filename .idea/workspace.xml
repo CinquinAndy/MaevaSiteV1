@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_4k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_Phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_tablette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_tablette_768.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablet_768.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logo_MakeupArtist_100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/btn_menu_no_bords.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/faviconweb.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +62,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.htaccess" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -103,7 +116,7 @@
       <workItem from="1570705685603" duration="5717000" />
       <workItem from="1570713802970" duration="2892000" />
       <workItem from="1570718932579" duration="12194000" />
-      <workItem from="1570788677467" duration="10162000" />
+      <workItem from="1570788677467" duration="13375000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -140,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570804464581</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modif page galerie et nom">
+      <created>1570806007423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570806007423</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
