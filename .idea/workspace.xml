@@ -2,9 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="Modif page galerie et nom">
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0001.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0002.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0003.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0004.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0005.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0006.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0007.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0008.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0009.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0010.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0011.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0012.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0013.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0014.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0015.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0016.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0017.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0018.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0019.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0020.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0021.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0022.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0023.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0024.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0025.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0026.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0027.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0028.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0029.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0030.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0031.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0032.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0033.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0034.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0035.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0036.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0037.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0038.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0039.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0040.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0041.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0042.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0043.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0044.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0045.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0046.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0047.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0048.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0049.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0050.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0051.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0052.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0053.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0054.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/IMG_0055.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +160,7 @@
       <workItem from="1570718932579" duration="12194000" />
       <workItem from="1570788677467" duration="13375000" />
       <workItem from="1570964924561" duration="39000" />
-      <workItem from="1571053889717" duration="1084000" />
+      <workItem from="1571053889717" duration="4161000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -150,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570806007423</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modif page galerie et nom">
+      <created>1571054994086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571054994086</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
