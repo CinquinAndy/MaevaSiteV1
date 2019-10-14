@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="Modif page galerie et nom">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_4k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_Phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_tablette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_Mae_tablette_768.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablet_768.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_tablette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo_MakeupArtist_100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/btn_menu_no_bords.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/faviconweb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,6 +105,8 @@
       <workItem from="1570713802970" duration="2892000" />
       <workItem from="1570718932579" duration="12194000" />
       <workItem from="1570788677467" duration="13375000" />
+      <workItem from="1570964924561" duration="39000" />
+      <workItem from="1571053889717" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -171,7 +161,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -7,6 +7,9 @@ body{
     font-family: Droid Sans;
     font-size: 20px;
 }
+h1 p{
+    font-size: 0.75em;
+}
 h2 p{
     font-weight: normal;
     font-size : 0.75em;
@@ -127,7 +130,6 @@ footer  ul li {
     bottom: 125%;
     margin: 0;
     left : 25%;
-    text-align: center;
 }
 .popup .popuptext a {
     text-decoration: none;
