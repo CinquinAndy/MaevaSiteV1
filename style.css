@@ -58,6 +58,7 @@ h2 p{
     max-width: 100%;
 }
 #section1 p{
+    margin: 0;
     padding: 0 2em 2% 2em;
     text-align: center;
 }
@@ -217,7 +218,10 @@ footer  ul li {
 }
 /*Responsives version telephone*/
 @media only screen and (max-width:500px){
-    h2 div {
+    h1 p {
+        font-size: 0.4em;
+    }
+    h2 p {
         font-size: 0.4em;
     }
     .popup .popuptext {
@@ -225,6 +229,19 @@ footer  ul li {
     }
     footer ul{
         display: none;
+    }
+    h1{
+        margin: 0;
+        padding: 0;
+    }
+    #section1 p {
+        margin: 0;
+        padding: 0 2em 0% 2em;
+    }
+
+    #section3 p {
+        margin: 0;
+        padding: 5% 2em 5% 2em;
     }
     #section4{
         display:block;
@@ -270,6 +287,7 @@ footer  ul li {
 .colonne img {
     margin-top: 8px;
     vertical-align: middle;
+    width: 100%;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
