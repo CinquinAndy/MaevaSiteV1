@@ -4,7 +4,7 @@
 body{
     padding: 0;
     margin:0;
-    font-family: Droid Sans;
+    font-family: Droid Sans sans-serif;
     font-size: 20px;
 }
 h1 p{
@@ -14,32 +14,47 @@ h2 p{
     font-weight: normal;
     font-size : 0.75em;
 }
+
+#navigationBar ul,li {
+    list-style-type: none;
+}
 #navigationBar{
     width:100%;
     margin: 0;
     padding: 0;
     position: fixed;
+}
+#navigationBar ul{
+    display : flex;
+    justify-content: stretch;
+    align-items: center;
+    margin: 0;
+    padding: 0;
     background-color: rgba(0,0,0,0.8);
     backdrop-filter: saturate(180%) blur(20px);
 }
-#navigationBar ul{
-    display : inline-flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    list-style-type: none;
-    align-items: center;
-    width: 100%;
-    margin: 0;
-    padding: 1%;
+#navigationBar ul li {
+    flex-grow: 1;
+    margin: 5px;
+    padding: 0;
 }
 #navigationBar ul li a{
+    display: block;
+    background-color: rgba(0,0,0,0);
     text-decoration: none;
     color: white;
-   }
+    padding: 1%;
+    text-align: center;
+    transition: all ease .3s;
+}
 #navigationBar ul li a:hover{
     color : grey;
+    filter: grayscale(80%);
 }
-/*Css index*/
+#navigationBar ul li a img{
+    width: 40px;
+}
+
 #Accueil img{
     max-width: 100%;
     width: 100vw;
@@ -182,39 +197,14 @@ footer  ul li {
 }
 /*Responsives version tablette - 768 px*/
 @media only screen and (max-width:768px){
-    #navigationBar{
-
-    }
-    #navigationBar ul {
-        padding: 0;
-        margin: 2%;
-    }
-    #navigationBar li {
-        font-size: 0.7em;
-        margin: 0;
-        padding: 0;
-        justify-content: flex-start;
-        align-items: flex-start;
-        align-content: flex-start;
-    }
-    #navigationBar li:nth-child(1){
-        display: none;
-
-    }
     #navigationBar li:nth-child(2){
         display: none;
     }
     #navigationBar li:nth-child(3){
         display: none;
     }
-    #navigationBar li:nth-child(4){
-        display: inline-flex;
-    }
-    #navigationBar li:nth-child(5){
-        display: inline-flex;
-    }
-    #navigationBar li:nth-child(6){
-        display: inline-flex;
+    #navigationBar li {
+        align-content: center;
     }
     h2 div {
         font-size: 0.6em;
@@ -252,6 +242,12 @@ footer  ul li {
 }
 /*Responsives version telephone*/
 @media only screen and (max-width:500px){
+    body{
+        font-size: 0.9em;
+    }
+    #navigationBar ul li a img {
+        width: 30px;
+    }
     h1 p {
         font-size: 0.4em;
     }
@@ -296,11 +292,6 @@ footer  ul li {
         text-decoration: none;
         color: white;
     }
-    #navigationBar ul {
-        width: 100%;
-        position: relative;
-        display: inline-flex;
-    }
 }
 
 @media only screen and (min-width:1440px) {
@@ -318,7 +309,6 @@ footer  ul li {
 }
 
 /* liste de ce qu'il reste a faire :
-- préparer une page pour la galerie
 - préparer une page pour le book
 - voir pour mettre un formulaire
  */
