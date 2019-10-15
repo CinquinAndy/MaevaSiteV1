@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-    </list>
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,7 @@
       <workItem from="1570718932579" duration="12194000" />
       <workItem from="1570788677467" duration="13375000" />
       <workItem from="1570964924561" duration="39000" />
-      <workItem from="1571053889717" duration="6058000" />
+      <workItem from="1571053889717" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -163,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571061432843</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modif page galerie et nom">
+      <created>1571064901812</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571064901812</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
