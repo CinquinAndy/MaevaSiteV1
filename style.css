@@ -18,8 +18,9 @@ h2 p{
     width:100%;
     margin: 0;
     padding: 0;
-    background-color: black;
     position: fixed;
+    background-color: rgba(0,0,0,0.8);
+    backdrop-filter: saturate(180%) blur(20px);
 }
 #navigationBar ul{
     display : inline-flex;
@@ -28,7 +29,8 @@ h2 p{
     list-style-type: none;
     align-items: center;
     width: 100%;
-    background-color: black;
+    margin: 0;
+    padding: 1%;
 }
 #navigationBar ul li a{
     text-decoration: none;
@@ -157,7 +159,7 @@ footer  ul li {
 .ligne {
     display: flex;
     flex-wrap: wrap;
-    padding: 9% 4px 0 4px;
+    padding: 8% 4px 0 4px;
     background-color: #272727;
 }
 
@@ -268,7 +270,7 @@ footer  ul li {
     }
     #section1 p {
         margin: 0;
-        padding: 0 2em 0% 2em;
+        padding: 0 2em 0 2em;
     }
 
     #section3 p {
@@ -303,7 +305,7 @@ footer  ul li {
 
 @media only screen and (min-width:1440px) {
     .ligne {
-        padding-top: 7%;
+        padding-top: 6%;
     }
 }
 @media only screen and (min-width:2560px) {
