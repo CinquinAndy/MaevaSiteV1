@@ -67,6 +67,11 @@ body{
     vertical-align: middle;
     width: 100%;
 }
+.colonne a img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
 @media (max-width: 800px) {
     .colonne {
         flex: 50%;

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="commit test -">
+      <change afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galerieCategorieB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galerieCategorieC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galerieCategorieD.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,6 +112,7 @@
       <workItem from="1570788677467" duration="13375000" />
       <workItem from="1570964924561" duration="39000" />
       <workItem from="1571053889717" duration="19345000" />
+      <workItem from="1571300640904" duration="2626000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -212,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571168048103</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit test -">
+      <created>1571211913204</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571211913204</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +250,7 @@
     <MESSAGE value="Creation page Galerie et navbar" />
     <MESSAGE value="ajout ''?''" />
     <MESSAGE value="Modif page galerie et nom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modif page galerie et nom" />
+    <MESSAGE value="commit test -" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test -" />
   </component>
 </project>
