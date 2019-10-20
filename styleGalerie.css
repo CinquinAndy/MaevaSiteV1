@@ -54,6 +54,7 @@ body{
     flex-wrap: wrap;
     padding: 8% 4px 0 4px;
     background-color: #272727;
+    min-height: 100vh;
 }
 
 .colonne {
