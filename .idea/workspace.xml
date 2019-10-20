@@ -2,10 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blur.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flechescat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/flechescat.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatA.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatA.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatAHover.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatAHoverFlou.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatB.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatB.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatBHover.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatBHoverFlou.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatC.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatC.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatCHoverFlou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatD.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatD.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatDHover.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatDHoverFlou.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a12.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a14.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/a9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catB/b9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catC/c8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/catD/d6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rougealevre.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieB.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieC.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieD.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/1-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/10-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/11-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/12-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/13-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/14-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/15-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/16-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/17-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/18-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/19-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/2-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/20-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/21-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/22-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/23-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/24-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/25-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/26-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/27-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/28-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/29-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/3-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/30-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/31-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/32-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/33-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/34-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/35-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/36-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/37-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/38-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/39-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/4-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/40-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/41-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/42-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/43-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/44-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/45-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/46-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/47-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/48-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/49-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/5-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/50-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/51-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/52-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/53-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/54-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/55-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/6-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/7-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/8-min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/9-min.JPG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
