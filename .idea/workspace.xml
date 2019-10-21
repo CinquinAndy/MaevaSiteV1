@@ -3,7 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieB.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieC.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieC.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieD.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatB.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatB.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatB.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatB.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatBHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatBHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatBHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatBHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatC.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatC.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatC.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatC.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHoverFlou.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatCHoverFlou.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatD.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatD.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatD.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatDHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatDHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatDHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatDHoverFlou.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +68,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectJetCat" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,6 +78,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/AlexGit2019/ProjectJetCat.git" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,6 +134,7 @@
       <workItem from="1571318004072" duration="844000" />
       <workItem from="1571319493877" duration="611000" />
       <workItem from="1571399589115" duration="3305000" />
+      <workItem from="1571656669391" duration="17669000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>

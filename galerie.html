@@ -10,6 +10,7 @@
     <meta name="description" content="Galerie, Maeva Cinquin">
     <link rel="icon" href="images/fav_makeup.png">
     <link rel="stylesheet" type="text/css" href="styleGalerie.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 <header>
@@ -18,24 +19,45 @@
             <!--logo-->
             <li class="menu"><a href="index.html" class="logo"><img src="images/logo.png" alt="logo"></a></li>
             <!-- Lien vers le book -->
+            <li class="menu"><a href="galerie.html">Galerie</a></li>
             <li class="menu"> <a href="">Book</a></li>
-            <li class="menu"><a href="index.html">Contact</a></li>
         </ul>
     </nav>
 </header>
 <div class="ligne">
     <div class="colonne">
-        <a href="galerieCategorieA.html"><img src="images/photos/FondCatAHover.JPG" alt="Fond image catégorie Artistique"></a>
+        <a href="galerieCategorieA.html"><img class="ImageFondCat" src="images/photos/FondCatA.JPG" alt="Fond image catégorie Artistique"
+                                              data-hover="images/photos/FondCatAHover.JPG" data-src="images/photos/FondCatA.JPG" ></a>
     </div>
     <div class="colonne">
-        <a href="galerieCategorieB.html"><img src="images/photos/FondCatCHover.JPG" alt="Fond image catégorie Beauté"></a>
+        <a href="galerieCategorieB.html"><img class="ImageFondCat" src="images/photos/FondCatB.JPG" alt="Fond image catégorie Beauté"
+                                              data-hover="images/photos/FondCatBHover.JPG" data-src="images/photos/FondCatB.JPG" ></a>
     </div>
     <div class="colonne">
-        <a href="galerieCategorieC.html"><img src="images/photos/FondCatDHover.JPG" alt="Fond image catégorie Shooting-photo"></a>
+        <a href="galerieCategorieC.html"><img class="ImageFondCat" src="images/photos/FondCatC.JPG" alt="Fond image catégorie Shooting"
+                                              data-hover="images/photos/FondCatCHover.JPG" data-src="images/photos/FondCatC.JPG" ></a>
     </div>
     <div class="colonne">
-        <a href="galerieCategorieD.html"><img src="images/photos/FondCatBHover.JPG" alt="Fond image catégorie Halloween"></a>
+        <a href="galerieCategorieD.html"><img class="ImageFondCat" src="images/photos/FondCatD.JPG" alt="Fond image catégorie Halloween"
+                                              data-hover="images/photos/FondCatDHover.JPG" data-src="images/photos/FondCatD.JPG" ></a>
     </div>
 </div>
+<script>
+    $('.ImageFondCat').hover(
+        // function(){
+        //     $(this).fadeTo(2500, 1);
+        // },
+        function(){
+            var src = $(this).data('hover');
+            // $(this).fadeTo(2500, 0.1);
+            $(this).attr('src', src);
+        },
+        function(){
+            var src = $(this).data('src');
+            // $(this).fadeTo(2500, 1);
+            $(this).attr('src', src);
+        }
+    );
+</script>
 </body>
 </html>

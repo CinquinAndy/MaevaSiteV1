@@ -73,10 +73,12 @@ body{
     vertical-align: middle;
     width: 100%;
 }
+
 @media (max-width: 800px) {
     .colonne {
         flex: 50%;
         max-width: 50%;
+
     }
 }
 /*Responsives version tablette - 768 px*/
