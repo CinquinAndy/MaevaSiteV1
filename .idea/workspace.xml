@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="suppression de commentaire inutile">
+      <change afterPath="$PROJECT_DIR$/book.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatB.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatB.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatC.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatC.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatC.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatC.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatD.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatD.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatD.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatDHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/FondCatDHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571597107339</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Site v3 - manque book">
+      <created>1571677745770</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571677745770</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +277,8 @@
     <MESSAGE value="Modif page galerie et nom" />
     <MESSAGE value="commit test -" />
     <MESSAGE value="Site v2 - manque book - galerie fini (presque)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Site v2 - manque book - galerie fini (presque)" />
+    <MESSAGE value="Site v3 - manque book" />
+    <MESSAGE value="suppression de commentaire inutile" />
+    <option name="LAST_COMMIT_MESSAGE" value="suppression de commentaire inutile" />
   </component>
 </project>
