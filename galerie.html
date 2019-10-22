@@ -31,11 +31,11 @@
     </div>
     <div class="colonne">
         <a href="galerieCategorieB.html"><img class="ImageFondCat" src="images/photos/FondCatB.JPG" alt="Fond image catégorie Beauté"
-                                              data-hover="images/photos/FondCatBHover.JPG" data-src="images/photos/FondCatB.JPG" ></a>
+                                              data-hover="images/photos/FondCatBHoverr.jpg" data-src="images/photos/FondCatB.JPG" ></a>
     </div>
     <div class="colonne">
         <a href="galerieCategorieC.html"><img class="ImageFondCat" src="images/photos/FondCatC.JPG" alt="Fond image catégorie Shooting"
-                                              data-hover="images/photos/FondCatCHover.JPG" data-src="images/photos/FondCatC.JPG" ></a>
+                                              data-hover="images/photos/FondCatCHoverr.JPG" data-src="images/photos/FondCatC.JPG" ></a>
     </div>
     <div class="colonne">
         <a href="galerieCategorieD.html"><img class="ImageFondCat" src="images/photos/FondCatD.JPG" alt="Fond image catégorie Halloween"
@@ -44,17 +44,12 @@
 </div>
 <script>
     $('.ImageFondCat').hover(
-        // function(){
-        //     $(this).fadeTo(2500, 1);
-        // },
         function(){
             var src = $(this).data('hover');
-            // $(this).fadeTo(2500, 0.1);
             $(this).attr('src', src);
         },
         function(){
             var src = $(this).data('src');
-            // $(this).fadeTo(2500, 1);
             $(this).attr('src', src);
         }
     );

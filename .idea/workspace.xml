@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="suppression de commentaire inutile">
-      <change afterPath="$PROJECT_DIR$/book.html" afterDir="false" />
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="changement image, bug galerie fond C">
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatBHoverr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photos/FondCatCHoverr.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatBHover.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHover.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
