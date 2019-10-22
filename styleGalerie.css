@@ -61,6 +61,7 @@ body{
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
+    position: relative;
 }
 
 .colonne img {
@@ -74,11 +75,37 @@ body{
     width: 100%;
 }
 
+.colonne a .ImageFondCat {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.colonne a #ImageFondCatA{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.colonne a #ImageFondCatB{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.colonne a #ImageFondCatC{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.colonne a #ImageFondCatD{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 @media (max-width: 800px) {
     .colonne {
         flex: 50%;
         max-width: 50%;
-
     }
 }
 /*Responsives version tablette - 768 px*/

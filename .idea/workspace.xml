@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/evalhtml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,6 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -119,7 +123,7 @@
       <workItem from="1571656669391" duration="17669000" />
       <workItem from="1571742285372" duration="152000" />
       <workItem from="1571743553936" duration="1179000" />
-      <workItem from="1571748053437" duration="2408000" />
+      <workItem from="1571748053437" duration="10518000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -275,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571748676576</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="v3 - manque fade">
+      <created>1571750513019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571750513019</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +316,7 @@
     <MESSAGE value="suppression de commentaire inutile" />
     <MESSAGE value="changement image, bug galerie fond C" />
     <MESSAGE value="changement image ajout dossier, essai correction bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="changement image ajout dossier, essai correction bug" />
+    <MESSAGE value="v3 - manque fade" />
+    <option name="LAST_COMMIT_MESSAGE" value="v3 - manque fade" />
   </component>
 </project>
