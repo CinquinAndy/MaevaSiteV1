@@ -9,8 +9,10 @@ body{
 }
 h1 p{
     font-size: 0.75em;
+    text-align: center;
 }
 h2 p{
+    text-align: center;
     font-weight: normal;
     font-size : 0.75em;
 }
