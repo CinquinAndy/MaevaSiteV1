@@ -9,6 +9,7 @@
     <meta name="description" content="Maquilleuse professionelle basée en Haute-savoie">
     <link rel="icon" href="images/fav_makeup.png">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 <header>
@@ -109,6 +110,20 @@
             }
         }
     }
+    $(function() {
+        $("a[href*='#']:not([href='#'])").click(function() {
+            if (
+                location.hostname == this.hostname
+                && this.pathname.replace(/^\//,"") == location.pathname.replace(/^\//,"")
+            ) {
+                var anchor = $(this.hash);
+                anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) +"]");
+                if ( anchor.length ) {
+                    $("html, body").animate( { scrollTop: anchor.offset().top }, 1500);
+                }
+            }
+        });
+    });
 </script>
 </body>
 </html>

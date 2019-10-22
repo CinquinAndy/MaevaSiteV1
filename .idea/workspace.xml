@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="changement image ajout dossier, essai correction bug">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blur.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerieCategorieB.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerieCategorieC.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieC.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerieCategorieD.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieD.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHoverFlou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/FondCatCHoverr.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,7 +119,7 @@
       <workItem from="1571656669391" duration="17669000" />
       <workItem from="1571742285372" duration="152000" />
       <workItem from="1571743553936" duration="1179000" />
-      <workItem from="1571748053437" duration="599000" />
+      <workItem from="1571748053437" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -277,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571731578865</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="changement image ajout dossier, essai correction bug">
+      <created>1571748676576</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1571748676576</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
