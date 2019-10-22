@@ -76,7 +76,7 @@ h2 p{
     margin: auto;
     max-width: 100%;
 }
-#section1 p{
+#section1 h1,h2 p{
     margin: 0;
     padding: 0 2em 2% 2em;
     text-align: center;
