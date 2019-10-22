@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="suppression de commentaire inutile">
-      <change afterPath="$PROJECT_DIR$/styleCategorie.css" afterDir="false" />
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatB.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatC.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatD.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -302,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571750513019</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="V5 - end">
+      <created>1571771020922</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1571771020922</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +321,7 @@
     <MESSAGE value="changement image, bug galerie fond C" />
     <MESSAGE value="changement image ajout dossier, essai correction bug" />
     <MESSAGE value="v3 - manque fade" />
-    <option name="LAST_COMMIT_MESSAGE" value="v3 - manque fade" />
+    <MESSAGE value="V5 - end" />
+    <option name="LAST_COMMIT_MESSAGE" value="V5 - end" />
   </component>
 </project>
