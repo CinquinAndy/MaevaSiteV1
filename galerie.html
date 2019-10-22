@@ -9,7 +9,7 @@
     <!--resumer description de la page pour moteur de recherche-->
     <meta name="description" content="Galerie, Maeva Cinquin">
     <link rel="icon" href="images/fav_makeup.png">
-    <link rel="stylesheet" type="text/css" href="styleGalerie.css">
+    <link rel="stylesheet" type="text/css" href="styleCategorie.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
@@ -22,55 +22,69 @@
         </ul>
     </nav>
 </header>
-<div class="ligne">
+<div class="ligne" id="AffichePc">
     <div id="catA" class="colonne">
-        <a href="galerieCategorieA.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatAHover.JPG" alt="Fond image catégorie Artistique"></a>
+        <a href="galerieCategorieA.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatAHoverFlou.JPG" alt="Fond image catégorie Artistique"></a>
         <a href="galerieCategorieA.html"><img id="ImageFondCatA" src="images/photos/IMG/FondCatA.JPG" alt="Fond image catégorie Artistique"></a>
     </div>
     <div id="catB" class="colonne">
-        <a href="galerieCategorieB.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatBHover.JPG" alt="Fond image catégorie Beauté"></a>
+        <a href="galerieCategorieB.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatBHoverFlou.JPG" alt="Fond image catégorie Beauté"></a>
         <a href="galerieCategorieB.html"><img id="ImageFondCatB" src="images/photos/IMG/FondCatB.JPG" alt="Fond image catégorie Beauté"></a>
     </div>
     <div id="catC" class="colonne">
-        <a href="galerieCategorieC.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatCHover.JPG" alt="Fond image catégorie Shooting"></a>
+        <a href="galerieCategorieC.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatCHoverFlou.JPG" alt="Fond image catégorie Shooting"></a>
         <a href="galerieCategorieC.html"><img id="ImageFondCatC" src="images/photos/IMG/FondCatC.JPG" alt="Fond image catégorie Shooting"></a>
     </div>
     <div id="catD" class="colonne">
-        <a href="galerieCategorieD.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatDHover.JPG" alt="Fond image catégorie Halloween"></a>
+        <a href="galerieCategorieD.html"><img class="ImageFondCat" src="images/photos/IMG/FondCatDHoverFlou.JPG" alt="Fond image catégorie Halloween"></a>
         <a href="galerieCategorieD.html"><img id="ImageFondCatD" src="images/photos/IMG/FondCatD.JPG" alt="Fond image catégorie Halloween"></a>
+    </div>
+</div>
+<div class="ligne" id="AfficheTel">
+    <div class="colonne">
+        <a href="galerieCategorieA.html"><img class="ImageFondTel" src="images/photos/IMG/FondCatAHover.JPG" alt="Fond image catégorie Artistique, telephone et tablette"></a>
+    </div>
+    <div class="colonne">
+        <a href="galerieCategorieB.html"><img class="ImageFondTel" src="images/photos/IMG/FondCatBHover.JPG" alt="Fond image catégorie Beauté, telephone et tablette"></a>
+    </div>
+    <div class="colonne">
+        <a href="galerieCategorieC.html"><img class="ImageFondTel" src="images/photos/IMG/FondCatCHover.JPG" alt="Fond image catégorie Shooting, telephone et tablette"></a>
+    </div>
+    <div class="colonne">
+        <a href="galerieCategorieD.html"><img class="ImageFondTel" src="images/photos/IMG/FondCatDHover.JPG" alt="Fond image catégorie Halloween, telephone et tablette"></a>
     </div>
 </div>
 <script>
     $('#catA').hover(
         function() {
-            $('#ImageFondCatA').fadeOut(250);
+            $('#ImageFondCatA').fadeOut(400);
         },
         function () {
-            $('#ImageFondCatA').fadeIn(250);
+            $('#ImageFondCatA').fadeIn(400);
         }
     );
     $('#catB').hover(
         function() {
-            $('#ImageFondCatB').fadeOut(250);
+            $('#ImageFondCatB').fadeOut(400);
         },
         function () {
-            $('#ImageFondCatB').fadeIn(250);
+            $('#ImageFondCatB').fadeIn(400);
         }
     );
     $('#catC').hover(
         function() {
-            $('#ImageFondCatC').fadeOut(250);
+            $('#ImageFondCatC').fadeOut(400);
         },
         function () {
-            $('#ImageFondCatC').fadeIn(250);
+            $('#ImageFondCatC').fadeIn(400);
         }
     );
     $('#catD').hover(
         function() {
-            $('#ImageFondCatD').fadeOut(250);
+            $('#ImageFondCatD').fadeOut(400);
         },
         function () {
-            $('#ImageFondCatD').fadeIn(250);
+            $('#ImageFondCatD').fadeIn(400);
         }
     );
 </script>

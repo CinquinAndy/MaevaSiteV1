@@ -10,6 +10,7 @@
     <link rel="icon" href="images/fav_makeup.png">
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/474f36629d.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <header>
@@ -33,7 +34,7 @@
     <!-- images fond make up -->
     <img src="images/Logo_MakeupArtist.png" id="Quisuisje" alt="Logo make up artist | Maeva Cinquin">
     <!-- description qui suis je ?-->
-    <h1><p>Cinquin Maeva, Maquilleuse professionnelle</p></h1>
+    <h1>Cinquin Maeva, Maquilleuse professionnelle</h1>
     <h2><p>J’évolue aujourd’hui dans deux domaines de prédilections : le maquillage beauté et le maquillage artistique.
         <br>Passionnée depuis toujours par le monde du maquillage c’est tout naturellement que j’ai rejoint la "Make Up For Ever Academy" de Nice.
         <br>
@@ -51,7 +52,16 @@
     <p id="Competences">Je propose toutes les prestations autour du maquillage
         <br>(mariages, événementiels, artistiques, enfants, shooting photo, tournages, défilés…)
         <br>Que vous soyez professionnels ou particuliers n’hésitez pas à me contacter et je vous répondrais au plus vite.
+        </div>
     </p>
+
+    <p class="hidden">Cliquez ci-dessous pour me contacter</p>
+    <div id="iconz" class="hidden">
+        <i class="far fa-hand-point-down"></i>
+        <i class="far fa-hand-point-down"></i>
+        <i class="far fa-hand-point-down"></i>
+    </div>
+
 </h2>
 <footer id="Contact">
     <ul>
@@ -112,10 +122,7 @@
     }
     $(function() {
         $("a[href*='#']:not([href='#'])").click(function() {
-            if (
-                location.hostname == this.hostname
-                && this.pathname.replace(/^\//,"") == location.pathname.replace(/^\//,"")
-            ) {
+            if (location.hostname == this.hostname && this.pathname.replace(/^\//,"") == location.pathname.replace(/^\//,"")) {
                 var anchor = $(this.hash);
                 anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) +"]");
                 if ( anchor.length ) {

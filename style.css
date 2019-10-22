@@ -99,6 +99,16 @@ h2 p{
     text-align: center;
     color: white;
 }
+#iconz {
+    display: flex;
+    background-color: #272727;
+    justify-content: center;
+    align-items: center;
+}
+#iconz i {
+    margin: 0 5% 2% 5%;
+    color : white;
+}
 #section4{
     display: none;
 }
@@ -233,6 +243,9 @@ footer  ul li {
         text-decoration: none;
         color: white;
     }
+    .hidden{
+        display: none;
+    }
 }
 @media (max-width: 600px) {
     .colonne {
@@ -253,6 +266,9 @@ footer  ul li {
     }
     h2 p {
         font-size: 0.4em;
+    }
+    .hidden{
+        display: none;
     }
     .popup .popuptext {
         display: none;

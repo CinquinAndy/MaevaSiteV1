@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="suppression de commentaire inutile">
+      <change afterPath="$PROJECT_DIR$/styleCategorie.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerie.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.psd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatB.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatC.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatD.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,7 +69,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/evalhtml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../evalhtml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
