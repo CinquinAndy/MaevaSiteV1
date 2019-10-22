@@ -16,11 +16,9 @@
 <header>
     <nav id="navigationBar">
         <ul>
-            <!--logo-->
             <li class="menu"><a href="index.html" class="logo"><img src="images/logo.png" alt="logo"></a></li>
-            <!-- Lien vers le book -->
             <li class="menu"><a href="galerie.html">Galerie</a></li>
-            <li class="menu"> <a href="">Book</a></li>
+            <li class="menu"><a href="index.html">Contact</a></li>
         </ul>
     </nav>
 </header>
@@ -47,10 +45,12 @@
         function(){
             var src = $(this).data('hover');
             $(this).attr('src', src);
+            // $(this).fadeIn(1500);
         },
         function(){
             var src = $(this).data('src');
             $(this).attr('src', src);
+            // $(this).fadeIn(1500);
         }
     );
 </script>
