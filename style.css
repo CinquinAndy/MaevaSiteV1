@@ -201,6 +201,12 @@ footer  ul li {
     vertical-align: middle;
     width: 100%;
 }
+#copyright{
+    background-color: #272727;
+    text-align: right;
+    padding: 1%;
+    color: white;
+}
 @media (max-width: 800px) {
     .colonne {
         flex: 50%;
