@@ -9,9 +9,7 @@
     <meta name="description" content="Maquilleuse professionelle basée en Haute-savoie">
     <link rel="icon" href="images/fav_makeup.png">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Satisfy&display=swap" rel="stylesheet">
-<!--    <link href="https://fonts.googleapis.com/css?family=Quintessential&display=swap" rel="stylesheet">-->
-<!--    <link href="https://fonts.googleapis.com/css?family=Nova+Oval&display=swap" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=Nova+Oval|Satisfy&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://kit.fontawesome.com/474f36629d.js" crossorigin="anonymous"></script>
 </head>
@@ -37,7 +35,7 @@
     <!-- images fond make up -->
     <img src="images/Logo_MakeupArtist.png" id="Quisuisje" alt="Logo make up artist | Maeva Cinquin">
     <!-- description qui suis je ?-->
-    <h1><p>Cinquin Maeva - Maquilleuse professionnelle</p></h1>
+    <h1><p>Cinquin Maeva . Maquilleuse professionnelle</p></h1>
     <h2><p>J’évolue aujourd’hui dans deux domaines de prédilections : le maquillage beauté et le maquillage artistique.
         <br>Passionnée depuis toujours par le monde du maquillage c’est tout naturellement que j’ai rejoint la "Make Up For Ever Academy" de Nice.
         <br>
@@ -124,7 +122,6 @@
     }
     $(function() {
         $("a[href*='#']:not([href='#'])").click(function() {
-            // if (location.hostname == this.hostname && this.pathname.replace(/^\//,"") == location.pathname.replace(/^\//,"")) {
                 var anchor = $(this.hash);
                 anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) +"]");
                 if ( anchor.length ) {
