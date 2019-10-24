@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="v8 - opti + changement police">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_Mae.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Fond_Mae.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fond_accueil_et_titre.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Fond_accueil_et_titre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logo_MakeupArtist.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Logo_MakeupArtist.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/btn_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/btn_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav_insta.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav_insta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav_mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav_mail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav_makeup.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav_makeup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav_map.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav_smartphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav_smartphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flechescat.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/flechescat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flechescat.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logoblanc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatA.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatA.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatAHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatB.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatB.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatBHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatC.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatC.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatCHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatD.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatD.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHover.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/IMG/FondCatDHoverFlou.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a0.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a0.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a10.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a12.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a12.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a13.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a13.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a14.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a14.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catA/a9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catA/a9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b0.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b0.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b10.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catB/b9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catB/b9.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c0.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c0.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catC/c8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catC/c8.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d0.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d0.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photos/catD/d6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/photos/catD/d6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ps69F7.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rougealevre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/titre_accueil.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleCategorie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleCategorie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleGalerie.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +128,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/evalhtml" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/CoursPhp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -123,7 +200,8 @@
       <workItem from="1571743553936" duration="1179000" />
       <workItem from="1571748053437" duration="10518000" />
       <workItem from="1571772955428" duration="548000" />
-      <workItem from="1571897106792" duration="1081000" />
+      <workItem from="1571897106792" duration="4380000" />
+      <workItem from="1571917159783" duration="1908000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -321,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571815782356</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="V7 - pre opti">
+      <created>1571904931904</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1571904931904</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +441,7 @@
     <MESSAGE value="V5 - end - 1 seul pouce en bas d'index" />
     <MESSAGE value="V5 - end - correction titre non centrer" />
     <MESSAGE value="V6 + copyright" />
-    <option name="LAST_COMMIT_MESSAGE" value="V6 + copyright" />
+    <MESSAGE value="V7 - pre opti" />
+    <option name="LAST_COMMIT_MESSAGE" value="V7 - pre opti" />
   </component>
 </project>
