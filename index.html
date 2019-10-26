@@ -1,4 +1,5 @@
 <!doctype html>
+<!--suppress ALL -->
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -19,48 +20,49 @@
         <ul>
             <!--logo-->
             <li class="menu"><a href="#Accueil" class="logo"><img src="images/logo.png" alt="logo"></a></li>
-                <li class="menu" id="menu_1"><a href="#Quisuisje">Qui suis-je ?</a></li>
-                <li class="menu" id="menu_2"><a href="#Competences">Mes compétences</a></li>
-                <!-- Lien vers le galerie -->
-                <li class="menu"><a href="galerie.html">Galerie</a></li>
-                <li class="menu"><a href="#Contact">Contact</a></li>
+            <li class="menu" id="menu_1"><a href="#Quisuisje">Qui suis-je ?</a></li>
+            <li class="menu" id="menu_2"><a href="#Competences">Mes compétences</a></li>
+            <!-- Lien vers le galerie -->
+            <li class="menu"><a href="galerie.html">Galerie</a></li>
+            <li class="menu"><a href="#Contact">Contact</a></li>
         </ul>
     </nav>
 </header>
 <div id="Accueil">
     <img src="images/Fond_accueil_et_titre.png" alt="Accueil Maeva Cinquin">
 </div>
-<p id="section1">
-    <!-- images fond make up -->
-    <img src="images/Logo_MakeupArtist.png" id="Quisuisje" alt="Logo make up artist | Maeva Cinquin">
-    <!-- description qui suis je ?-->
-    <h1><p>Cinquin Maeva . Maquilleuse professionnelle</p></h1>
-    <h2><p>J’évolue aujourd’hui dans deux domaines de prédilections : le maquillage beauté et le maquillage artistique.
-        <br>Passionnée depuis toujours par le monde du maquillage c’est tout naturellement que j’ai rejoint la "Make Up For Ever Academy" de Nice.
-        <br>
-        <br>Tout au long de ces 10 mois de formations je me suis plongée dans ce domaine, qui est ma vocation et j’ai su mettre à profit les compétences acquises m’enrichir au cours des nombreux stages effectuées :
-        <br>- Shooting photo
-        <br>- Carnaval de nice
-        <br>- Défilé
-        <br>- Shooting pour la marque peggy sage …
-    </p>
-    </h2>
+<section id="section1">
+<header><img src="images/Logo_MakeupArtist.png" id="Quisuisje" alt="Logo make up artist | Maeva Cinquin"></header>
+<h1>Cinquin Maeva . Maquilleuse professionnelle</h1>
+<h2>J’évolue aujourd’hui dans deux domaines de prédilections : le maquillage beauté et le maquillage artistique.</h2>
+<article>
+    <br>Passionnée depuis toujours par le monde du maquillage c’est tout naturellement que j’ai rejoint la "Make Up For
+    Ever Academy" de Nice.
+    <br>
+    <br>Tout au long de ces 10 mois de formations je me suis plongée dans ce domaine, qui est ma vocation et j’ai su
+    mettre à profit les compétences acquises m’enrichir au cours des nombreux stages effectuées :
+    <br>- Shooting photo
+    <br>- Carnaval de nice
+    <br>- Défilé
+    <br>- Shooting pour la marque peggy sage …
+</article>
 </section>
+
 <!-- images fond section 2 -->
 <div id="section2"><img src="images/Fond_Mae.png" alt="Fond Maeva qui maquille"></div>
-<h2 id="section3">
-    <p id="Competences">Je propose toutes les prestations autour du maquillage
+<section id="section3">
+    <article id="Competences">Je propose toutes les prestations autour du maquillage
         <br>(mariages, événementiels, artistiques, enfants, shooting photo, tournages, défilés…)
-        <br>Que vous soyez professionnels ou particuliers n’hésitez pas à me contacter et je vous répondrais au plus vite.
-        </div>
-    </p>
+        <br>Que vous soyez professionnels ou particuliers n’hésitez pas à me contacter et je vous répondrais au plus
+        vite.
+    </article>
 
-    <p class="hidden">Cliquez ci-dessous pour me contacter</p>
-    <div id="iconz" class="hidden">
+    <article class="hidden">Cliquez ci-dessous pour me contacter</article>
+    <article id="iconz" class="hidden">
         <i class="far fa-hand-point-down"></i>
-    </div>
+    </article>
 
-</h2>
+</section>
 <footer id="Contact">
     <ul>
         <div class="popup" onclick="myFunction()">
@@ -74,15 +76,15 @@
                 <br>1250 chemin de la renouillère, 74140 Sciez
                 <br>
                 <br><a href="https://www.instagram.com/makeup.artist.dream" target="_blank">instagram.com/makeup.artist.dream</a></span>
-        <li><a><img src="images/fav_mail.png" alt="mail"></a></li>
-        <li><a><img src="images/fav_smartphone.png" alt="telephone"></a></li>
-        <li><a><img src="images/fav_map.png" alt="map"></a></li>
-        <li><a><img src="images/fav_insta.png" alt="instagram"></a></li>
+            <li><a><img src="images/fav_mail.png" alt="mail"></a></li>
+            <li><a><img src="images/fav_smartphone.png" alt="telephone"></a></li>
+            <li><a><img src="images/fav_map.png" alt="map"></a></li>
+            <li><a><img src="images/fav_insta.png" alt="instagram"></a></li>
         </div>
     </ul>
-    <h2 id="section4">
+    <section id="section4">
         <hr>
-        <div>
+        <article>
             <br>Pour me contacter :
             <br>
             <br><a href="mailto: maevacinquin1@gmail.com">maevacinquin1@gmail.com</a>
@@ -92,8 +94,8 @@
             <br>1250 chemin de la renouillère, 74140 Sciez
             <br>
             <br><a href="https://www.instagram.com/makeup.artist.dream" target="_blank">instagram.com/makeup.artist.dream</a>
-        </div>
-    </h2>
+        </article>
+    </section>
 </footer>
 <div id="copyright">Website by Cinquin Andy</div>
 <script>
@@ -101,12 +103,13 @@
         var popup = document.getElementById("myPopup");
         popup.classList.toggle("show");
     }
+
     function myFunctionDrop() {
         document.getElementById("myDropdown").classList.toggle("showDrop");
     }
 
     // Close the dropdown if the user clicks outside of it
-    window.onclick = function(event) {
+    window.onclick = function (event) {
         if (!event.target.matches('.btn_menu')) {
 
             var dropdowns = document.getElementsByClassName("dropdown-content");
@@ -119,13 +122,13 @@
             }
         }
     }
-    $(function() {
-        $("a[href*='#']:not([href='#'])").click(function() {
-                var anchor = $(this.hash);
-                anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) +"]");
-                if ( anchor.length ) {
-                    $("html, body").animate( { scrollTop: anchor.offset().top }, 1500);
-                }
+    $(function () {
+        $("a[href*='#']:not([href='#'])").click(function () {
+            var anchor = $(this.hash);
+            anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) + "]");
+            if (anchor.length) {
+                $("html, body").animate({scrollTop: anchor.offset().top}, 1500);
+            }
             // }
         });
     });
