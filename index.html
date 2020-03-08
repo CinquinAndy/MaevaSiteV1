@@ -1,4 +1,6 @@
 <!doctype html>
+<!-- todo ajout du traitement des redirections, avec le 404 no't found -->
+<!-- todo + minify le css -->
 <html lang="fr">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -7,7 +9,6 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'UA-150969790-1');
     </script>
     <meta charset="UTF-8">
@@ -27,11 +28,10 @@
 <header>
     <nav id="navigationBar">
         <ul>
-            <!--logo-->
             <li class="menu"><a href="#Accueil" class="logo"><img src="images/logo.png" alt="logo"></a></li>
             <li class="menu" id="menu_1"><a href="#Quisuisje">Qui suis-je ?</a></li>
             <li class="menu" id="menu_2"><a href="#Competences">Mes compétences</a></li>
-            <!-- Lien vers le galerie -->
+            <li class="menu" id="menu_3"><a href="prestations.html">Prestations</a></li>
             <li class="menu"><a href="galerie.html">Galerie</a></li>
             <li class="menu"><a href="#Contact">Contact</a></li>
         </ul>
@@ -117,7 +117,6 @@
         document.getElementById("myDropdown").classList.toggle("showDrop");
     }
 
-    // Close the dropdown if the user clicks outside of it
     window.onclick = function (event) {
         if (!event.target.matches('.btn_menu')) {
 

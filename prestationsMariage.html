@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150969790-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-150969790-1');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Maquilleuse professionnelle | Maeva Cinquin | Makeup.Artist.Dream</title>
+    <meta name="description" content="Maquilleuse professionnelle basée autour de la Haute-savoie, Annecy, Thonon, Sciez, et Genève en Suisse.
+    Prestations de maquillage.">
+    <link rel="icon" href="images/fav_makeup.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Nova+Oval|Satisfy&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/58f998f035.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<header>
+    <nav id="navigationBar">
+        <ul id="presta">
+            <li class="menu"><a href="index.html" class="logo"><img src="images/logo.png" alt="logo"></a></li>
+            <li class="menu"><a href="prestations.html">Prestations</a></li>
+            <li class="menu"><a href="galerie.html">Galerie</a></li>
+            <li class="menu"><a href="index.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<div id="fond"></div>
+<h1>Mariage</h1>
+<section class="sectionPresta">
+    <h1>Mariée</h1>
+    <div>
+        <div>
+            <h2>Tarifs :
+                <br/>essai maquillage + jour J -> 200€
+                <br/>Pose de faux cils : 15€
+            </h2>
+            <article>
+                Lors de ce premier rendez-vous, je crée le maquillage de vos rêves et me fies à vos envies pour un maquillage mariée parfaitement adapté à vos souhaits.
+                Puis le jour J, j’interviens à l’endroit que vous souhaiter.
+            </article>
+        </div>
+        <div class="sectionPrestaIcon">
+            <article>
+                <img src="images/mariee.svg" alt="Icon maquillage Mariee">
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="sectionPresta">
+    <h1>Cortège</h1>
+    <div>
+        <div>
+            <h2>Tarif :
+                <br>60€ / personne
+            </h2>
+            <article>
+                je propose également mes services à votre entourage : témoins, sœur, maman. Les membres de votre cortège peuvent donc être maquillés par mes soins eux aussi.
+            </article>
+        </div>
+        <div class="sectionPrestaIcon">
+            <article>
+                <img src="images/cortege.svg" alt="Icon maquillage cortege">
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="sectionPresta">
+    <h1>Marié</h1>
+    <div>
+        <div>
+            <h2>Tarif :
+                <br>30€
+            </h2>
+            <article>
+                Pour monsieur j’effectue un teint imperceptible longue tenue.
+            </article>
+        </div>
+        <div class="sectionPrestaIcon">
+            <article>
+                <img src="images/marie.svg" alt="Icon maquillage Marie">
+            </article>
+        </div>
+    </div>
+</section>
+
+<section class="sectionPresta">
+    <h1>Enfants</h1>
+    <div>
+        <div>
+            <h2>Tarif :
+                <br>60€ pour 1heure / 100€ pour 2heure
+            </h2>
+            <article>
+                Pendant la soirée une métamorphose des enfants en super-héros, princesse, ou en animal… Afin d’animé le début de soirée.
+            </article>
+        </div>
+        <div class="sectionPrestaIcon">
+            <article>
+                <img src="images/children.svg" alt="Icon maquillage Enfant">
+            </article>
+        </div>
+    </div>
+</section>
+
+<div id="copyright">Website developed by Cinquin Andy - <a href="mentionsLegales.html">Mentions légales</a></div>
+<script>
+    function myFunctionDrop() {
+        document.getElementById("myDropdown").classList.toggle("showDrop");
+    }
+
+    window.onclick = function (event) {
+        if (!event.target.matches('.btn_menu')) {
+
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('showDrop')) {
+                    openDropdown.classList.remove('showDrop');
+                }
+            }
+        }
+    };
+
+</script>
+</body>
+</html>

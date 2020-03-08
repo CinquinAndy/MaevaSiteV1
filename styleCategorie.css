@@ -1,1 +1,157 @@
-*{box-sizing:border-box}body{padding:0;margin:0;font-family:Satisfy,cursive;font-size:20px}#navigationBar ul,li{list-style-type:none}#navigationBar{z-index:1;width:100%;margin:0;padding:0;position:fixed}#navigationBar ul{display:flex;justify-content:stretch;align-items:center;margin:0;padding:0;background-color:rgba(0,0,0,.8);backdrop-filter:saturate(180%) blur(20px)}#navigationBar ul li{flex-grow:1;margin:0;padding:0}#navigationBar ul li a{display:block;background-color:rgba(0,0,0,0);text-decoration:none;color:#fff;padding:5%;text-align:center;transition:all ease .3s}#navigationBar ul li a:hover{color:grey;filter:grayscale(80%)}#navigationBar ul li a img{width:40px}.ligne{display:flex;flex-wrap:wrap;padding:8% 4px 0;background-color:#272727;min-height:100vh}#AfficheTel{display:none}.colonne{flex:25%;max-width:25%;padding:0 4px;position:relative}.colonne img{margin-top:8px;vertical-align:middle;width:100%}.colonne a img{margin-top:8px;vertical-align:middle;width:100%}.colonne a .ImageFondCat{position:absolute;top:0;left:0}.colonne a #ImageFondCatA{position:absolute;top:0;left:0}.colonne a #ImageFondCatB{position:absolute;top:0;left:0}.colonne a #ImageFondCatC{position:absolute;top:0;left:0}.colonne a #ImageFondCatD{position:absolute;top:0;left:0}@media (max-width:800px){#AfficheTel{display:flex}#AffichePc{display:none}.colonne{margin-top:2%;flex:50%;max-width:50%}}@media (max-width:600px){.colonne{flex:100%;max-width:100%}}@media only screen and (min-width:1440px){.ligne{padding-top:6%}}@media only screen and (min-width:2560px){.ligne{padding-top:5%}body{font-size:2em}}
+* {
+    box-sizing: border-box
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Satisfy, cursive;
+    font-size: 20px
+}
+
+#navigationBar ul, li {
+    list-style-type: none
+}
+
+#navigationBar {
+    z-index: 1;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed
+}
+
+#navigationBar ul {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, .8);
+    backdrop-filter: saturate(180%) blur(20px)
+}
+
+#navigationBar ul li {
+    flex-grow: 1;
+    margin: 0;
+    padding: 0
+}
+
+#navigationBar ul li a {
+    display: block;
+    background-color: rgba(0, 0, 0, 0);
+    text-decoration: none;
+    color: #fff;
+    padding: 5%;
+    text-align: center;
+    transition: all ease .3s
+}
+
+#navigationBar ul li a:hover {
+    color: grey;
+    filter: grayscale(80%)
+}
+
+#navigationBar ul li a img {
+    width: 40px
+}
+
+.ligne {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 8% 4px 0;
+    background-color: #272727;
+    min-height: 100vh
+}
+
+#AfficheTel {
+    display: none
+}
+
+.colonne {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+    position: relative
+}
+
+.colonne img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%
+}
+
+.colonne a img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%
+}
+
+.colonne a .ImageFondCat {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.colonne a #ImageFondCatA {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.colonne a #ImageFondCatB {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.colonne a #ImageFondCatC {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.colonne a #ImageFondCatD {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+@media (max-width: 800px) {
+    #AfficheTel {
+        display: flex
+    }
+
+    #AffichePc {
+        display: none
+    }
+
+    .colonne {
+        margin-top: 2%;
+        flex: 50%;
+        max-width: 50%
+    }
+}
+
+@media (max-width: 600px) {
+    .colonne {
+        flex: 100%;
+        max-width: 100%
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+    .ligne {
+        padding-top: 6%
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    .ligne {
+        padding-top: 5%
+    }
+
+    body {
+        font-size: 2em
+    }
+}
