@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +136,7 @@
       <workItem from="1575644826990" duration="4086000" />
       <workItem from="1586428910417" duration="924000" />
       <workItem from="1586432936706" duration="5000" />
+      <workItem from="1586435319563" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -388,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586429226369</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Correction problème azure lié a OVH :'(">
+      <created>1586435342205</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1586435342205</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,21 +440,22 @@
     <MESSAGE value="v12 - opti code - opti seo + google analytics" />
     <MESSAGE value="ajout mentions légales + minify" />
     <MESSAGE value="ajout d'une photo dans la categorie art" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout d'une photo dans la categorie art" />
+    <MESSAGE value="Correction problème azure lié a OVH :'(" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction problème azure lié a OVH :'(" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586429225690">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586435341649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586429225690" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586435341649" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586432926126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586432926126" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586429228828">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586435344081">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586429228828" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586435344081" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586432936977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
