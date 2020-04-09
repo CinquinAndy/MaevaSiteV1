@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="ajout mentions légales + minify">
+    <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +44,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -67,15 +70,15 @@
       <recent name="https://github.com/AlexGit2019/ProjectJetCat.git" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -130,6 +133,8 @@
       <workItem from="1572180388031" duration="601000" />
       <workItem from="1572430962289" duration="2601000" />
       <workItem from="1575644826990" duration="4086000" />
+      <workItem from="1586428910417" duration="924000" />
+      <workItem from="1586432936706" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -376,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572090097707</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ajout d'une photo dans la categorie art">
+      <created>1586429226369</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1586429226369</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,12 +430,26 @@
     <MESSAGE value="v11 - opti code - pre opti seo" />
     <MESSAGE value="v12 - opti code - opti seo + google analytics" />
     <MESSAGE value="ajout mentions légales + minify" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout mentions légales + minify" />
+    <MESSAGE value="ajout d'une photo dans la categorie art" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout d'une photo dans la categorie art" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586428910492">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586429225690">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586429225690" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586432926126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586432926126" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586429228828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586429228828" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586432936977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586432936977" />
     <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1586428910492" />
   </component>
 </project>
