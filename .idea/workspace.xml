@@ -420,4 +420,10 @@
     <MESSAGE value="ajout mentions légales + minify" />
     <option name="LAST_COMMIT_MESSAGE" value="ajout mentions légales + minify" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586428910492">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1586428910492" />
+  </component>
 </project>
