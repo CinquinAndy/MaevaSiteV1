@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/photos/catA/brasMaquillageStitch.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
     </list>
@@ -138,7 +137,7 @@
       <workItem from="1586428910417" duration="924000" />
       <workItem from="1586432936706" duration="5000" />
       <workItem from="1586435319563" duration="5972000" />
-      <workItem from="1586536741004" duration="89000" />
+      <workItem from="1586536741004" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -455,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586439706180</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Ajout photo bras maquillage stitch">
+      <created>1586536849673</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1586536849673</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Ajout photo bras maquillage stitch">
+      <created>1586536985258</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1586536985258</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +489,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="suppression de commentaire inutile" />
     <MESSAGE value="changement image, bug galerie fond C" />
     <MESSAGE value="changement image ajout dossier, essai correction bug" />
     <MESSAGE value="v3 - manque fade" />
@@ -501,13 +513,14 @@
     <MESSAGE value="Correction problème azure lié a OVH :'( - v7" />
     <MESSAGE value="Correction problème azure lié a OVH :'( - v8" />
     <MESSAGE value="Correction problème azure lié a OVH :'( - v9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction problème azure lié a OVH :'( - v9" />
+    <MESSAGE value="Ajout photo bras maquillage stitch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout photo bras maquillage stitch" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586536848963">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586536984717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586536848963" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586536984717" />
     <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1586443698875">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -517,10 +530,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586442777987" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586439707493">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586536988033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586439707493" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586536988033" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586432936977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
