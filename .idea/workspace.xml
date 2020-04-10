@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db29072-bebc-4a3e-9f9d-dcf0afb24e4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/photos/catA/brasMaquillageStitch.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galerieCategorieA.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerieCategorieA.html" afterDir="false" />
     </list>
@@ -64,7 +65,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -136,7 +137,8 @@
       <workItem from="1575644826990" duration="4086000" />
       <workItem from="1586428910417" duration="924000" />
       <workItem from="1586432936706" duration="5000" />
-      <workItem from="1586435319563" duration="4296000" />
+      <workItem from="1586435319563" duration="5972000" />
+      <workItem from="1586536741004" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="Creation page Galerie et navbar">
       <created>1570794701917</created>
@@ -446,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586439369566</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Correction problème azure lié a OVH :'( - v9">
+      <created>1586439706180</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1586439706180</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +476,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Site v3 - manque book" />
     <MESSAGE value="suppression de commentaire inutile" />
     <MESSAGE value="changement image, bug galerie fond C" />
     <MESSAGE value="changement image ajout dossier, essai correction bug" />
@@ -492,21 +500,27 @@
     <MESSAGE value="Correction problème azure lié a OVH :'( - v6" />
     <MESSAGE value="Correction problème azure lié a OVH :'( - v7" />
     <MESSAGE value="Correction problème azure lié a OVH :'( - v8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction problème azure lié a OVH :'( - v8" />
+    <MESSAGE value="Correction problème azure lié a OVH :'( - v9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction problème azure lié a OVH :'( - v9" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586439369144">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586439705765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586439369144" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586432926126">
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586439705765" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1586443698875">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1586443698875" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586442916432" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1586442777987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586432926126" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586439371108">
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586442777987" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586439707493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586439371108" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586439707493" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586432936977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
