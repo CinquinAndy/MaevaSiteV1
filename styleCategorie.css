@@ -8,7 +8,43 @@ body {
     font-family: Satisfy, cursive;
     font-size: 20px
 }
+footer {
+    background-color: #272727;
+    padding-bottom: 3em
+}
 
+footer ul {
+    max-width: 100%;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center
+}
+
+footer ul li {
+    text-decoration: none;
+    display: inline-flex;
+}
+#loader{
+    width: 100vw;
+    height: 100vh;
+    background: #3e2b66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 5;
+    top: 0
+}
+
+#loader img{
+    display: inline-block;
+    position: relative;
+    max-width: 80%;
+}
 #navigationBar ul, li {
     list-style-type: none
 }

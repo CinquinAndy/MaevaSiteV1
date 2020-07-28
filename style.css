@@ -37,7 +37,23 @@ a{
     color: black;
     text-decoration: none;
 }
+#loader{
+    width: 100vw;
+    height: 100vh;
+    background: #3e2b66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 5;
+    top: 0
+}
 
+#loader img{
+    display: inline-block;
+    position: relative;
+    max-width: 80%;
+}
 #navigationBar ul, li {
     list-style-type: none
 }

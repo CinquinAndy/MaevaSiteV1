@@ -5,7 +5,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150969790-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-150969790-1');
@@ -22,6 +26,9 @@
     <link rel="stylesheet" type="text/css" href="styleGalerie.css">
 </head>
 <body>
+<div id="loader">
+    <img src="images/loaderLipStick.png" alt="loader lip stick - Maeva">
+</div>
 <header>
     <nav id="navigationBar">
         <ul>
@@ -51,5 +58,23 @@
         <img src="images/photos/catC/c7.JPG" alt="Photos catégorie Beauté - 8">
     </div>
 </div>
+<footer>
+    <ul>
+        <li>Shooting du 22.02.2019</li>
+        <a href="https://mariannegiroudon.wixsite.com/mariannegiroudon" target="_blank">
+            <li>Lien vers la Photographe</li>
+        </a>
+        <a href="https://www.enjoy-models.com/en/women/20847-lilou-e/" target="_blank">
+            <li>Lien vers la Modèle</li>
+        </a>
+    </ul>
+</footer>
 </body>
+<script>
+    window.onload = function () {
+        setTimeout(function () {
+            document.getElementById("loader").style.display = 'none';
+        }, 1800);
+    }
+</script>
 </html>

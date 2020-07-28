@@ -1,5 +1,6 @@
 * {
-    box-sizing: border-box
+    box-sizing: border-box;
+    transition: all ease 0.3s;
 }
 
 body {
@@ -9,6 +10,62 @@ body {
     font-size: 20px
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #272727;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+}
+footer ul {
+    max-width: 100%;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    margin: 1em 0;
+    padding: 0;
+}
+
+footer ul li {
+    text-decoration: none;
+    display: inline-flex;
+    color:white;
+
+}
+footer ul li:hover {
+    color: grey;
+}
+a:hover{
+    color: grey;
+}
+#loader{
+    width: 100vw;
+    height: 100vh;
+    background: #3e2b66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 5;
+    top: 0
+}
+
+#loader img{
+    display: inline-block;
+    position: relative;
+    max-width: 80%;
+}
 #navigationBar ul, li {
     list-style-type: none
 }

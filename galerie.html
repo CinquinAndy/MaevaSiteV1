@@ -23,6 +23,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
+<div id="loader">
+    <img src="images/loaderLipStick.png" alt="loader lip stick - Maeva">
+</div>
 <header>
     <nav id="navigationBar">
         <ul>
@@ -97,6 +100,9 @@
             $('#ImageFondCatD').fadeIn(400);
         }
     );
+    window.onload = function(){
+        setTimeout(function(){document.getElementById("loader").style.display = 'none';},1800);
+    }
 </script>
 </body>
 </html>

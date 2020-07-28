@@ -22,6 +22,9 @@
     <link rel="stylesheet" type="text/css" href="styleGalerie.css">
 </head>
 <body>
+<div id="loader">
+    <img src="images/loaderLipStick.png" alt="loader lip stick - Maeva">
+</div>
 <header>
     <nav id="navigationBar">
         <ul>
@@ -66,4 +69,9 @@
     </div>
 </div>
 </body>
+<script>
+    window.onload = function(){
+        setTimeout(function(){document.getElementById("loader").style.display = 'none';},1800);
+    }
+</script>
 </html>
