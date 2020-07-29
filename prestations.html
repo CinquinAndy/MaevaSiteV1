@@ -18,7 +18,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Maquilleuse professionnelle | Maeva Cinquin | Makeup.Artist.Dream</title>
+    <title>Maquilleuse professionnelle Haute-Savoie</title>
     <meta name="description" content="Maquilleuse professionnelle basée autour de la Haute-savoie, Annecy, Thonon, Sciez, et Genève en Suisse.
     Prestations de maquillage.">
     <link rel="icon" href="images/fav_makeup.png">
@@ -65,7 +65,12 @@
                 }
             }
         }
-    }
+    };
+
+    window.onload = function(){
+        setTimeout(function(){document.getElementById("loader").style.opacity = '0%';},1800);
+        setTimeout(function(){document.getElementById("loader").style.display = 'none';},2600);
+    };
 
     $(function () {
         $("a[href*='#']:not([href='#'])").click(function () {

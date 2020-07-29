@@ -19,7 +19,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Maeva Cinquin - Mentions légales</title>
-    <meta name="description" content="mentions légales">
+    <meta name="description" content="mentions légales, Portefolio maquilleuse professionnelle">
     <link rel="icon" href="images/fav_makeup.png">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Nova+Oval|Satisfy&display=swap" rel="stylesheet">
@@ -27,6 +27,11 @@
     <script src="https://kit.fontawesome.com/58f998f035.js" crossorigin="anonymous"></script>
 </head>
 <body>
+<div id="loader">
+    <div class="loadingio-spinner-eclipse-jrhej783wuk"><div class="ldio-7o1fx8r840a">
+        <div></div>
+    </div></div>
+</div>
 <header>
     <nav id="navigationBar">
         <ul>
@@ -63,4 +68,10 @@
     </p>
 </div>
 </body>
+<script>
+    window.onload = function(){
+        setTimeout(function(){document.getElementById("loader").style.opacity = '0%';},1800);
+        setTimeout(function(){document.getElementById("loader").style.display = 'none';},2600);
+    }
+</script>
 </html>

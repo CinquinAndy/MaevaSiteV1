@@ -34,6 +34,11 @@ todo -> + modif du logo -->
     <script src="https://kit.fontawesome.com/58f998f035.js" crossorigin="anonymous"></script>
 </head>
 <body>
+<div id="loader">
+    <div class="loadingio-spinner-eclipse-jrhej783wuk"><div class="ldio-7o1fx8r840a">
+        <div></div>
+    </div></div>
+</div>
 <header>
     <nav id="navigationBar">
         <ul>
@@ -138,7 +143,8 @@ todo -> + modif du logo -->
                 }
             }
         }
-    }
+    };
+
     $(function () {
         $("a[href*='#']:not([href='#'])").click(function () {
             var anchor = $(this.hash);
@@ -149,6 +155,10 @@ todo -> + modif du logo -->
             // }
         });
     });
+    window.onload = function(){
+        setTimeout(function(){document.getElementById("loader").style.opacity = '0%';},1800);
+        setTimeout(function(){document.getElementById("loader").style.display = 'none';},2600);
+    }
 </script>
 </body>
 </html>
