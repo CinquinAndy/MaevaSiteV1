@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.cinquin-maeva.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/prestations</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/prestationsMariage</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/prestationsArtistique</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/prestationsBeaute</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/prestationsAutresEvenements</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/galerie</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/galerieCategorieA</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/galerieCategorieB</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/galerieCategorieC</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/galerieCategorieD</loc>
+</url>
+<url>
+  <loc>https://cinquin-maeva.com/mentionsLegales</loc>
+</url>
+</urlset>
